@@ -2,7 +2,7 @@
 
 ## Goal
 
-Some material developed while participating in the group [PyLadies](https://brasil.pyladies.com/).
+Some material developed while participating in the group [PyLadies](https://brasil.pyladies.com/). Also, some [tutorials](https://drive.google.com/drive/folders/1xyOl-9Vj0-z8nCLJPBXy8y42i0W0uVHt?usp=sharing) were made.
 
 ## Requirements
 
